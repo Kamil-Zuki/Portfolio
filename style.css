@@ -384,3 +384,16 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+
+/* CONTACT SECTION */
+
+/* FOOTER */
+
+footer {
+  height: 26vh;
+  margin: 0.1rem;
+}
+
+footer p {
+  text-align: center;
+}
